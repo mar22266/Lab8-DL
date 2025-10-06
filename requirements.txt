@@ -1,0 +1,13 @@
+# === Core scientific stack ===
+numpy
+pandas
+matplotlib
+
+# === Machine Learning / Deep Learning ===
+tensorflow>=2.15.0
+
+# === Typing and utility support ===
+typing-extensions
+
+# === Optional (for Jupyter / interactive dev) ===
+ipykernel
